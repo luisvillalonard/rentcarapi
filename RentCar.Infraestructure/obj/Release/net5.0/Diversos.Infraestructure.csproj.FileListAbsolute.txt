@@ -1,0 +1,15 @@
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\bin\Release\net5.0\Diversos.Infraestructure.deps.json
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\bin\Release\net5.0\Diversos.Infraestructure.dll
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\bin\Release\net5.0\Diversos.Infraestructure.pdb
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\bin\Release\net5.0\Diversos.Core.dll
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\bin\Release\net5.0\Diversos.Core.pdb
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.Infraestructure.csproj.AssemblyReference.cache
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.Infraestructure.AssemblyInfoInputs.cache
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.Infraestructure.AssemblyInfo.cs
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.Infraestructure.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.DF036957.Up2Date
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.Infraestructure.dll
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\refint\Diversos.Infraestructure.dll
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\Diversos.Infraestructure.pdb
+E:\PROYECTOS\CORE\Diversos\Diversos.Infraestructure\obj\Release\net5.0\ref\Diversos.Infraestructure.dll

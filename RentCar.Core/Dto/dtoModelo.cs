@@ -1,0 +1,9 @@
+﻿namespace Diversos.Core.Dto
+{
+    public class dtoModelo
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public dtoMarca Marca { get; set; }
+    }
+}

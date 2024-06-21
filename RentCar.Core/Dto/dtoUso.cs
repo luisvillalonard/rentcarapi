@@ -1,0 +1,8 @@
+﻿namespace Diversos.Core.Dto
+{
+    public class dtoUso
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+    }
+}

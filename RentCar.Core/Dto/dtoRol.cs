@@ -1,0 +1,10 @@
+﻿namespace Diversos.Core.Dto
+{
+    public class dtoRol
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public bool Administrador { get; set; }
+        public bool Propietario { get; set; }
+    }
+}

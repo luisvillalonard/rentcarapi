@@ -1,0 +1,16 @@
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.deps.json
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.runtimeconfig.json
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.runtimeconfig.dev.json
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.dll
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.pdb
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.csproj.AssemblyReference.cache
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.AssemblyInfoInputs.cache
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.AssemblyInfo.cs
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.sourcelink.json
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.dll
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\refint\RentCar.Core.dll
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.pdb
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.genruntimeconfig.cache
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\ref\RentCar.Core.dll

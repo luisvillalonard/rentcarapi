@@ -1,0 +1,15 @@
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\bin\Release\net5.0\Diversos.Core.deps.json
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\bin\Release\net5.0\Diversos.Core.runtimeconfig.json
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\bin\Release\net5.0\Diversos.Core.runtimeconfig.dev.json
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\bin\Release\net5.0\Diversos.Core.dll
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\bin\Release\net5.0\Diversos.Core.pdb
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.csproj.AssemblyReference.cache
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.AssemblyInfoInputs.cache
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.AssemblyInfo.cs
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.dll
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\refint\Diversos.Core.dll
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.pdb
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\Diversos.Core.genruntimeconfig.cache
+E:\PROYECTOS\CORE\Diversos\Diversos.Core\obj\Release\net5.0\ref\Diversos.Core.dll
