@@ -26,9 +26,6 @@ namespace Diversos.Infraestructure.Mappings
             CreateMap<Combustible, dtoCombustible>();
             CreateMap<dtoCombustible, Combustible>();
 
-            CreateMap<Estado, dtoEstado>();
-            CreateMap<dtoEstado, Estado>();
-
             CreateMap<Foto, dtoFoto>()
                 .ForMember(dest => dest.Imagen, orig => orig.MapFrom(b => Util.StringToBase64(b.Imagen, b.Extension)));
             CreateMap<dtoFoto, Foto>()

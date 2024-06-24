@@ -34,7 +34,8 @@ namespace Diversos.Infraestructure.Repositories
             {
                 try
                 {
-                    result = await _personaRepositorio.FindAsync(per => per.Documento.Equals(item.Persona.Documento));
+                    var documento = item.Persona.Documento.Replace("-", "");
+                    result = await _personaRepositorio.FindAsync(per => per.Documento.Equals(documento));
                     if (!result.Ok)
                     {
                         await transaccion.RollbackAsync();
@@ -47,6 +48,7 @@ namespace Diversos.Infraestructure.Repositories
                     // Si no existe la persona la registro
                     if (persona == null)
                     {
+                        item.Persona.Codigo = Guid.NewGuid().ToString().ToLower().Replace("-", "");
                         result = await _personaRepositorio.PostAsync(item.Persona);
                         if (!result.Ok)
                         {

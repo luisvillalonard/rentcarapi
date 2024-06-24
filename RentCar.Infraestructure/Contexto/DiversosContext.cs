@@ -21,7 +21,6 @@ namespace Diversos.Infraestructure.Contexto
         public virtual DbSet<Color> Color { get; set; }
         public virtual DbSet<Combustible> Combustible { get; set; }
         public virtual DbSet<ConfiguracionAlquilerNota> ConfiguracionAlquilerNota { get; set; }
-        public virtual DbSet<Estado> Estado { get; set; }
         public virtual DbSet<Foto> Foto { get; set; }
         public virtual DbSet<Marca> Marca { get; set; }
         public virtual DbSet<Mensaje> Mensaje { get; set; }
@@ -93,11 +92,6 @@ namespace Diversos.Infraestructure.Contexto
             modelBuilder.Entity<ConfiguracionAlquilerNota>(entity =>
             {
                 entity.Property(e => e.Nota).IsUnicode(false);
-            });
-
-            modelBuilder.Entity<Estado>(entity =>
-            {
-                entity.Property(e => e.Descripcion).IsUnicode(false);
             });
 
             modelBuilder.Entity<Foto>(entity =>

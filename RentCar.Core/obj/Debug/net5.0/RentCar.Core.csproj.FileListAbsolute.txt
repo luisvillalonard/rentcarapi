@@ -14,3 +14,17 @@ E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\refint\RentCar.Core.d
 E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.pdb
 E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.genruntimeconfig.cache
 E:\PROYECTOS\CORE\RentCarApi\RentCar.Core\obj\Debug\net5.0\ref\RentCar.Core.dll
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.deps.json
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.runtimeconfig.json
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.runtimeconfig.dev.json
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.dll
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\bin\Debug\net5.0\ref\RentCar.Core.dll
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\bin\Debug\net5.0\RentCar.Core.pdb
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.AssemblyInfoInputs.cache
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.AssemblyInfo.cs
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.csproj.CoreCompileInputs.cache
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.dll
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\ref\RentCar.Core.dll
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.pdb
+C:\Users\DO001082\source\repos\RentCarApi\RentCar.Core\obj\Debug\net5.0\RentCar.Core.genruntimeconfig.cache

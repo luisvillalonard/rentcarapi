@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj": {}
+    "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj": {}
   },
   "projects": {
-    "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj": {
+    "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj",
+        "projectUniqueName": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj",
         "projectName": "RentCar.Api",
-        "projectPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj",
-        "packagesPath": "C:\\Users\\Villalona\\.nuget\\packages\\",
-        "outputPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Api\\obj\\",
+        "projectPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Api\\RentCar.Api.csproj",
+        "packagesPath": "C:\\Users\\DO001082\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Villalona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DO001082\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj": {
-                "projectPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj"
+              "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj": {
+                "projectPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj"
               },
-              "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj": {
-                "projectPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj"
+              "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj"
               }
             }
           }
@@ -41,11 +41,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,8 +80,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -98,21 +92,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj": {
+    "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj",
+        "projectUniqueName": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj",
         "projectName": "RentCar.Core",
-        "projectPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj",
-        "packagesPath": "C:\\Users\\Villalona\\.nuget\\packages\\",
-        "outputPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\obj\\",
+        "projectPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj",
+        "packagesPath": "C:\\Users\\DO001082\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Villalona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DO001082\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -132,11 +126,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -178,8 +167,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -188,21 +176,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj": {
+    "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj",
         "projectName": "RentCar.Infraestructure",
-        "projectPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\Villalona\\.nuget\\packages\\",
-        "outputPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Infraestructure\\RentCar.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\DO001082\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Villalona\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DO001082\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -216,8 +204,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj": {
-                "projectPath": "E:\\PROYECTOS\\CORE\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj"
+              "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj": {
+                "projectPath": "C:\\Users\\DO001082\\source\\repos\\RentCarApi\\RentCar.Core\\RentCar.Core.csproj"
               }
             }
           }
@@ -226,11 +214,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -272,8 +255,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -282,7 +264,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

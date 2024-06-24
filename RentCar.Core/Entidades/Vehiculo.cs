@@ -53,7 +53,7 @@ namespace Diversos.Core.Entidades
         public virtual Color Exterior { get; set; } = null!;
         [ForeignKey("FotoId")]
         [InverseProperty("Vehiculo")]
-        public virtual Foto? Foto { get; set; }
+        public virtual Foto Foto { get; set; }
         [ForeignKey("InteriorId")]
         [InverseProperty("VehiculoInterior")]
         public virtual Color Interior { get; set; } = null!;

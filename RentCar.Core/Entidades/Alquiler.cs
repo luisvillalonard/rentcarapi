@@ -31,7 +31,7 @@ namespace Diversos.Core.Entidades
 
         [ForeignKey("ComprobanteId")]
         [InverseProperty("Alquiler")]
-        public virtual Foto? Comprobante { get; set; }
+        public virtual Foto Comprobante { get; set; }
         [ForeignKey("PersonaId")]
         [InverseProperty("Alquiler")]
         public virtual Persona Persona { get; set; } = null!;

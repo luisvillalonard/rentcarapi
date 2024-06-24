@@ -20,7 +20,6 @@ namespace Diversos.Infraestructure.Extensions.Services
             services.AddTransient(typeof(ICargaRepositorio), typeof(CargaRepositorio));
             services.AddTransient(typeof(IColorRepositorio), typeof(ColorRepositorio));
             services.AddTransient(typeof(ICombustibleRepositorio), typeof(CombustibleRepositorio));
-            services.AddTransient(typeof(IEstadoRepositorio), typeof(EstadoRepositorio));
             services.AddTransient(typeof(IFotoRepositorio), typeof(FotoRepositorio));
             services.AddTransient(typeof(IMarcaRepositorio), typeof(MarcaRepositorio));
             services.AddTransient(typeof(IModeloRepositorio), typeof(ModeloRepositorio));
