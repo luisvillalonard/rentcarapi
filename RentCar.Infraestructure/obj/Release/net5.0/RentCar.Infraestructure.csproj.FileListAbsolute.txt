@@ -1,0 +1,16 @@
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\bin\Release\net5.0\RentCar.Infraestructure.deps.json
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\bin\Release\net5.0\RentCar.Infraestructure.dll
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\bin\Release\net5.0\RentCar.Infraestructure.pdb
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\bin\Release\net5.0\RentCar.Core.dll
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\bin\Release\net5.0\RentCar.Core.pdb
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.csproj.AssemblyReference.cache
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.AssemblyInfoInputs.cache
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.AssemblyInfo.cs
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.csproj.CoreCompileInputs.cache
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.sourcelink.json
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar..87C7AB9B.Up2Date
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.dll
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\refint\RentCar.Infraestructure.dll
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\RentCar.Infraestructure.pdb
+E:\PROYECTOS\CORE\RentCarApi\RentCar.Infraestructure\obj\Release\net5.0\ref\RentCar.Infraestructure.dll

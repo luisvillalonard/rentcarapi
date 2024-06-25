@@ -3,6 +3,8 @@ using Diversos.Core.Dto;
 using Diversos.Core.Entidades;
 using Diversos.Core.Interfaces;
 using Diversos.Core.Models;
+using Diversos.Core.Models.Email;
+using Diversos.Infraestructure.Services;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -41,12 +43,27 @@ namespace Diversos.Api.Controllers
         {
             modelo.Codigo = Guid.NewGuid().ToString().Replace("-", "").ToLower();
             var item = _mapper.Map<Usuario>(modelo);
-            item.CreadoEn = DateTime.Now;
+            //item.CreadoEn = DateTime.Now;
             item.PasswordSalt = Util.NewSalt();
             item.PasswordHash = Encriptador.AES.Encrypt(Util.RandomString(10), item.PasswordSalt);
             var result = await _repositorio.PostAsync(item);
             if (!result.Ok)
                 return Ok(result);
+
+            //try
+            //{
+            //    // Envio el correo
+            //    var mailRequest = new MailRequest()
+            //    {
+            //        ToEmail = item.Correo,
+            //        Subject = "Creación de Usuario en Sistema Alquiler de Vehículos.",
+            //        Body = $"Ha realizado su registro en el sistema La Manguera Car de forma exitosa. para completar su ingreso al sistema deberá ir al sistema y establecer su nueva contraseña haciendo click en el siguiente enlace: <a href='http://localhost:3000/usuarios/confirmacion/{item.Codigo.ToLower()}'>Completar acceso al sistema</a>"
+            //    };
+
+            //    await _mailService.SendEmailAsync(mailRequest);
+
+            //}
+            //catch (Exception) { }
 
             result.Datos = _mapper.Map<dtoUsuario>(result.Datos);
             return Ok(result);

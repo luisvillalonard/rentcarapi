@@ -232,17 +232,17 @@ namespace Diversos.Api.Controllers
                     .ToArray();
             }
 
-            result = await _repoFoto.FindAsync(
-                foto => vehiculos.Select(v => v.Id).Any(veh => veh == foto.VehiculoId),
-                foto => foto.Foto
-            );
-            if (result.Ok)
-            {
-                var fotos = (result.Datos as IEnumerable<VehiculoFoto>);
-                vehiculos = vehiculos
-                    .Select(veh => { veh.VehiculoFoto = fotos.Where(foto => foto.VehiculoId == veh.Id).ToArray(); return veh; })
-                    .ToArray();
-            }
+            //result = await _repoFoto.FindAsync(
+            //    foto => vehiculos.Select(v => v.Id).Any(veh => veh == foto.VehiculoId),
+            //    foto => foto.Foto
+            //);
+            //if (result.Ok)
+            //{
+            //    var fotos = (result.Datos as IEnumerable<VehiculoFoto>);
+            //    vehiculos = vehiculos
+            //        .Select(veh => { veh.VehiculoFoto = fotos.Where(foto => foto.VehiculoId == veh.Id).ToArray(); return veh; })
+            //        .ToArray();
+            //}
 
             var dtoVehiculos = _mapper.Map<IEnumerable<dtoVehiculo>>(vehiculos);
             result.Datos = dtoVehiculos

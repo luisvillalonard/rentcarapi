@@ -72,8 +72,10 @@ namespace Diversos.Infraestructure.Mappings
             CreateMap<Usuario, dtoUsuario>()
                 .ForMember(dest => dest.Rol, orig => orig.MapFrom(b => b.Rol))
                 .ForMember(dest => dest.PasswordHash, orig => orig.Ignore())
-                .ForMember(dest => dest.PasswordSalt, orig => orig.Ignore());
+                .ForMember(dest => dest.PasswordSalt, orig => orig.Ignore())
+                .ForMember(dest => dest.CreadoEn, orig => orig.MapFrom(b => b.CreadoEn.ToString(DateFormat_YYYY_MM_DD)));
             CreateMap<dtoUsuario, Usuario>()
+                .ForMember(dest => dest.CreadoEn, orig => orig.MapFrom(b => DateTime.Parse(b.CreadoEn)))
                 .ForMember(dest => dest.Rol, orig => orig.Ignore());
             
             CreateMap<Usuario, dtoLogin>()

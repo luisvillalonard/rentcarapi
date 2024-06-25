@@ -31,15 +31,15 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "Diversos.Api/1.0.0": {
+      "RentCar.Api/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "Diversos.Core": "1.0.0",
-          "Diversos.Infraestructure": "1.0.0",
           "FluentValidation": "11.9.1",
           "FluentValidation.AspNetCore": "11.3.0",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "5.0.17",
           "Microsoft.EntityFrameworkCore.Design": "5.0.17",
+          "RentCar.Core": "1.0.0",
+          "RentCar.Infraestructure": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -316,10 +316,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "Diversos.Api.dll": {}
+          "RentCar.Api.dll": {}
         },
         "compile": {
-          "Diversos.Api.dll": {}
+          "RentCar.Api.dll": {}
         }
       },
       "AutoMapper/12.0.1": {
@@ -403,7 +403,14 @@
           "lib/netstandard2.1/FluentValidation.DependencyInjectionExtensions.dll": {}
         }
       },
-      "Humanizer.Core/2.8.26": {},
+      "Humanizer.Core/2.8.26": {
+        "runtime": {
+          "lib/netstandard2.0/Humanizer.dll": {
+            "assemblyVersion": "2.8.0.0",
+            "fileVersion": "2.8.26.1919"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Http.Features/5.0.17": {
         "dependencies": {
           "Microsoft.Extensions.Primitives": "6.0.0",
@@ -570,6 +577,12 @@
           "Humanizer.Core": "2.8.26",
           "Microsoft.CSharp": "4.7.0",
           "Microsoft.EntityFrameworkCore.Relational": "5.0.17"
+        },
+        "runtime": {
+          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "5.0.17.0",
+            "fileVersion": "5.0.1722.21206"
+          }
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/5.0.17": {
@@ -1527,7 +1540,7 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
-      "Diversos.Core/1.0.0": {
+      "RentCar.Core/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.Http.Features": "5.0.17",
           "Microsoft.EntityFrameworkCore.Abstractions": "5.0.17",
@@ -1535,28 +1548,28 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17"
         },
         "runtime": {
-          "Diversos.Core.dll": {}
+          "RentCar.Core.dll": {}
         },
         "compile": {
-          "Diversos.Core.dll": {}
+          "RentCar.Core.dll": {}
         }
       },
-      "Diversos.Infraestructure/1.0.0": {
+      "RentCar.Infraestructure/1.0.0": {
         "dependencies": {
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.1",
-          "Diversos.Core": "1.0.0",
           "FluentValidation": "11.9.1",
           "FluentValidation.AspNetCore": "11.3.0",
           "Microsoft.AspNetCore.Mvc.NewtonsoftJson": "5.0.17",
           "Microsoft.EntityFrameworkCore": "5.0.17",
           "MimeKit": "4.6.0",
+          "RentCar.Core": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
         "runtime": {
-          "Diversos.Infraestructure.dll": {}
+          "RentCar.Infraestructure.dll": {}
         },
         "compile": {
-          "Diversos.Infraestructure.dll": {}
+          "RentCar.Infraestructure.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3200,7 +3213,7 @@
     }
   },
   "libraries": {
-    "Diversos.Api/1.0.0": {
+    "RentCar.Api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -4010,12 +4023,12 @@
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
-    "Diversos.Core/1.0.0": {
+    "RentCar.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Diversos.Infraestructure/1.0.0": {
+    "RentCar.Infraestructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
